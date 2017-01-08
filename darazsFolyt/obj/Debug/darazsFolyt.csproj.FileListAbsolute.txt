@@ -1,0 +1,6 @@
+c:\users\erik\documents\visual studio 2015\Projects\darazsFolyt\darazsFolyt\bin\Debug\darazsFolyt.exe.config
+c:\users\erik\documents\visual studio 2015\Projects\darazsFolyt\darazsFolyt\bin\Debug\darazsFolyt.exe
+c:\users\erik\documents\visual studio 2015\Projects\darazsFolyt\darazsFolyt\bin\Debug\darazsFolyt.pdb
+c:\users\erik\documents\visual studio 2015\Projects\darazsFolyt\darazsFolyt\obj\Debug\darazsFolyt.csprojResolveAssemblyReference.cache
+c:\users\erik\documents\visual studio 2015\Projects\darazsFolyt\darazsFolyt\obj\Debug\darazsFolyt.exe
+c:\users\erik\documents\visual studio 2015\Projects\darazsFolyt\darazsFolyt\obj\Debug\darazsFolyt.pdb
